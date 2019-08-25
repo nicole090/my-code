@@ -1,4 +1,4 @@
-# 作业1:python的基本书写
+# task1:python的基本书写
 
 import time #导入时间模块
 
